@@ -224,7 +224,9 @@ If any target process is unresponsive, it terminates all processes and logs the 
 
 ## Quick Architecture Sketch
 
-![Alt text](ARP_Drone/Sketch/sketch.png)
+
+![image](https://github.com/SillyVon/ARP-Assignment-I/assets/132211944/5b03257c-953f-43a4-8d94-31b521acdce2)
+
 
 
 ## Getting Started 
