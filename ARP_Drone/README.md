@@ -223,6 +223,7 @@ If any target process is unresponsive, it terminates all processes and logs the 
 
 
 ## Quick Architecture Sketch
+
 ![Alt text](ARP_Drone/Sketch/sketch.png)
 
 
@@ -244,4 +245,28 @@ This will compile all source files and generate the corresponding binaries in th
 ```console
 ./bin/server
 ```
+### Watchdog
+
+This project utilizes a watchdog tool that needs to be run separately after compilation. Follow the steps below to run the watchdog in a dedicated terminal.
+Prerequisites
+
+Ensure that the project is successfully compiled.
+
+#### Running the Watchdog
+
+Open a new terminal window.
+
+Navigate to the directory where the watchdog is located. Use the following command to change the directory:
+```console
+ARP_Drone/bin
+```
+Run the watchdog using the following command:
+```console
+./bin/watchdog
+```
+This command executes the compiled watchdog program.
+
+
+
+
 
