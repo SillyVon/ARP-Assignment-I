@@ -69,7 +69,7 @@ Ensure that you have the required dependencies installed on your system (details
 
 ### Clone the repository
 ```console
-[git clone https://github.com/SillyVon/ARP-Assignment-/tree/main](https://github.com/SillyVon/ARP-Assignment-I.git)
+git clone https://github.com/SillyVon/ARP-Assignment-I.git
 ```
 ### Navigate to the project directory
 ```console
