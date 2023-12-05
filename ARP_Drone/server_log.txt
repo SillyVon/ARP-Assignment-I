@@ -1,5 +1,0 @@
-[2023-12-05 14:40:53]Forking a process
-[2023-12-05 14:40:53]Process forked successfully,Process ID: 8454
-[2023-12-05 14:40:53]semaphore wait return value
-[2023-12-05 14:40:53]Process ID written to shared memory
-[2023-12-05 14:40:53]Main program exiting
